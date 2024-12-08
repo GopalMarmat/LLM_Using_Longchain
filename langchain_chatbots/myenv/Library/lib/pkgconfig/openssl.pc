@@ -1,0 +1,9 @@
+prefix=C:/Users/HP/Documents/AIML_Project/LLM_Using_Longchain/langchain_chatbots/myenv/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.15 
